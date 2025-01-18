@@ -1,0 +1,41 @@
+_repo: Pedro-Sanchez_74981
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pereda, José María de
+    aliases:
+    - Pereda, Jose Maria de
+    - Porrúa, José María de Pereda y Sánchez
+    - Sánchez Porrúa, José María de Pereda y
+    - De Pereda, José María
+    - Porrua, Jose Maria de Pereda y Sanchez
+    birthdate: 1833
+    deathdate: 1906
+    gutenberg_agent_id: '4463'
+    url: http://www.gutenberg.org/2009/agents/4463
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
+    - https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
+description: ''
+gutenberg_issued: '2024-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74981'
+language: es
+pgterms:marc904: https://archive.org/details/obrascompletas07pere
+pgterms:marc905: 20210227141450pereda
+pgterms:marc906: '1898'
+pgterms:marc907: ES
+production_note: Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aMadrid :$bViuda e Hijos de Manuel Tello, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: His Obras completas, tomo XIII
+subjects:
+- !lcsh 'Spain -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Pedro Sánchez
+url: http://www.gutenberg.org/ebooks/74981
